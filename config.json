@@ -1,0 +1,12 @@
+{
+	"port":1106,
+	"baseDir":"./glcat",
+	"errDir":"./glcat/err/",
+	"welcomeFile":"index.html",
+	"actions":[
+		{
+			"url":"hello",
+			"ctrl":"hello.js"
+		}
+	]
+}
