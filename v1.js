@@ -4,7 +4,7 @@ var url = require('url');
 
 var configFilePath = './config.json';
 var config = {};
-var mime = ['ico','jpeg','jpg','png','gif','txt','html','htm','css','js'];
+var mime = ['ico','jpeg','jpg','png','gif','bmp','txt','html','htm','css','js','c','cpp','sh','java','json','php','h','m'];
 var baseDir = './';
 
 
