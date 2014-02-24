@@ -1,0 +1,5 @@
+1,根据不通的url，http method（post，get）进行映射
+
+2,配置文件config.json的格式
+
+3,如何对action进行封装
